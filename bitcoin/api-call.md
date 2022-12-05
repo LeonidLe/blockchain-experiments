@@ -1,4 +1,4 @@
-1) Install full bitcoin node.
+1) Install full bitcoin node (bitcoind).
 
 
 2) Configure the client:
